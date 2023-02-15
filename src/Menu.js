@@ -7,7 +7,7 @@ const Menu = (props) => {
         <div >
             <ul class='navbar'>
                 <img src={logo} className="logo" alt=""/>
-                <NavLink to='/' className='item'><li>Accueil</li> </NavLink>
+                <NavLink to='/Accueil' className='item'><li>Accueil</li> </NavLink>
                 
                 <NavLink to='/Blagues' className='item'><li>Blagues</li></NavLink>
                 <NavLink to='/Galerie' className='item'><li>Galerie</li></NavLink>
