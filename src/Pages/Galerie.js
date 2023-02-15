@@ -37,6 +37,7 @@ function App() {
   };
   return (
     <div className="App">
+           <Menu />
    <h1>Gallerie</h1>
    <br></br>
       <Carousel responsive={responsive}>
