@@ -4,7 +4,7 @@ import Menu from '../Menu';
 import "./Accueil.css"
 const Accueil = (props) => {
     return (
-        <div className='root'>
+        <div >
             <Menu />
       <h1 className="title">Bienvenue</h1>
            <span><h2 className='acc'>“L'humour est l’adrénaline des optimistes.”</h2></span>
