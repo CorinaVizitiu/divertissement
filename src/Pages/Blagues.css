@@ -1,0 +1,36 @@
+.title2{
+    font-size: xx-large;
+    font: italic 4em "Fira Sans", serif ,bold;
+    top: 20%;
+    left: 0%;
+    bottom: 80%;
+    margin-right: 10%;
+    margin: 0;
+    position: relative;
+    }
+    .p1{ margin-top:5%;
+    font-size: x-large;
+    font: italic 1.2em "Fira Sans", serif;
+    left: 20%;
+    bottom:  auto;
+    margin-right: 10%;
+    position: relative;
+        
+    }
+    .p2{ margin-top:5%;
+      font-size: x-large;
+      font: italic 1.2em "Fira Sans", serif;
+      left: 30%;
+      bottom:  auto;
+      margin-right: 10%; 
+      position: relative;
+      }
+    .p3{ margin-top: 5%;
+     font-size: x-large;
+     font: italic 1.2em "Fira Sans", serif;
+     left: 40%;
+     bottom: auto;
+     margin-right: 10%;
+    position: relative;
+      }  
+      

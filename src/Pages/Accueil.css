@@ -1,0 +1,26 @@
+.img1{ display: block;
+    margin-left: auto;
+    margin-right: auto 
+  }
+.acc{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font: italic 5em "Fira Sans", serif;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    bottom: 60%;
+    margin-right: 90%;
+    transform: translate(50%, 50%)
+}
+ .title{ margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    bottom: 70%;
+    margin-right: 90%;
+font-size: xx-large;
+font: italic 5em "Fira Sans", serif;
+ }
