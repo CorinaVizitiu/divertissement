@@ -39,7 +39,7 @@ function App() {
     <div className="App">
            <Menu />
    <h1>Gallerie</h1>
-   <br></br>
+   
       <Carousel responsive={responsive}>
         <div>
           <img src={img1} alt="" />
